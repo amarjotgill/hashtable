@@ -1,0 +1,275 @@
+445353 was saved for later use.
+Insertion # 0 => 445353
+Insertion # 1 => 860957
+Insertion # 2 => 981167
+543712 was saved for later use.
+Insertion # 3 => 543712
+Insertion # 4 => 717841
+Insertion # 5 => 205595
+633660 was saved for later use.
+Insertion # 6 => 633660
+Insertion # 7 => 399741
+Insertion # 8 => 904336
+208445 was saved for later use.
+Insertion # 9 => 208445
+Insertion # 10 => 378385
+Insertion # 11 => 240296
+895721 was saved for later use.
+Insertion # 12 => 895721
+Insertion # 13 => 810912
+Insertion # 14 => 852106
+980680 was saved for later use.
+Insertion # 15 => 980680
+Insertion # 16 => 345156
+Insertion # 17 => 203952
+940036 was saved for later use.
+Insertion # 18 => 940036
+Insertion # 19 => 280463
+Insertion # 20 => 675883
+922616 was saved for later use.
+Insertion # 21 => 922616
+Insertion # 22 => 619531
+Insertion # 23 => 631578
+525505 was saved for later use.
+Insertion # 24 => 525505
+Insertion # 25 => 424808
+Insertion # 26 => 845316
+649838 was saved for later use.
+Insertion # 27 => 649838
+Insertion # 28 => 703825
+Insertion # 29 => 312659
+570070 was saved for later use.
+Insertion # 30 => 570070
+Insertion # 31 => 574565
+Insertion # 32 => 374445
+500115 was saved for later use.
+Insertion # 33 => 500115
+Insertion # 34 => 444473
+Insertion # 35 => 805918
+313645 was saved for later use.
+Insertion # 36 => 313645
+Insertion # 37 => 792060
+Insertion # 38 => 363510
+161214 was saved for later use.
+Insertion # 39 => 161214
+Insertion # 40 => 885054
+Insertion # 41 => 763641
+856364 was saved for later use.
+Insertion # 42 => 856364
+Insertion # 43 => 861153
+Insertion # 44 => 491711
+655833 was saved for later use.
+Insertion # 45 => 655833
+Insertion # 46 => 953796
+Insertion # 47 => 673723
+128178 was saved for later use.
+Insertion # 48 => 128178
+Insertion # 49 => 304893
+Message: dump after 50 insertions in a table with MINPRIME (101) buckets:
+Dump for table 1: 
+[0] : 
+[1] : 
+[2] : driver.cpp (disk block 570070)
+[3] : driver.cpp (disk block 128178)
+[4] : test.txt (disk block 861153)
+[5] : driver.cpp (disk block 161214)
+[6] : 
+[7] : test.txt (disk block 378385)
+[8] : test.txt (disk block 574565)
+[9] : 
+[10] : 
+[11] : 
+[12] : 
+[13] : 
+[14] : test.txt (disk block 203952)
+[15] : 
+[16] : test.txt (disk block 673723)
+[17] : 
+[18] : driver.cpp (disk block 980680)
+[19] : 
+[20] : test.txt (disk block 240296)
+[21] : 
+[22] : 
+[23] : test.txt (disk block 491711)
+[24] : 
+[25] : test.txt (disk block 631578)
+[26] : 
+[27] : 
+[28] : 
+[29] : test.txt (disk block 703825)
+[30] : 
+[31] : driver.cpp (disk block 940036)
+[32] : 
+[33] : 
+[34] : 
+[35] : test.txt (disk block 810912)
+[36] : driver.cpp (disk block 856364)
+[37] : 
+[38] : 
+[39] : test.txt (disk block 280463)
+[40] : 
+[41] : test.txt (disk block 363510)
+[42] : test.txt (disk block 805918)
+[43] : 
+[44] : 
+[45] : 
+[46] : driver.cpp (disk block 922616)
+[47] : 
+[48] : test.txt (disk block 763641)
+[49] : 
+[50] : driver.cpp (disk block 500115)
+[51] : test.txt (disk block 374445)
+[52] : test.txt (disk block 852106)
+[53] : 
+[54] : 
+[55] : 
+[56] : 
+[57] : 
+[58] : test.txt (disk block 424808)
+[59] : 
+[60] : 
+[61] : 
+[62] : 
+[63] : driver.cpp (disk block 525505)
+[64] : 
+[65] : 
+[66] : test.txt (disk block 675883)
+[67] : 
+[68] : test.txt (disk block 312659)
+[69] : driver.cpp (disk block 655833)
+[70] : 
+[71] : test.txt (disk block 345156)
+[72] : test.txt (disk block 860957)
+[73] : test.txt (disk block 981167)
+[74] : 
+[75] : 
+[76] : test.txt (disk block 717841)
+[77] : driver.cpp (disk block 313645)
+[78] : 
+[79] : 
+[80] : 
+[81] : test.txt (disk block 205595)
+[82] : driver.cpp (disk block 649838)
+[83] : driver.cpp (disk block 445353)
+[84] : driver.cpp (disk block 543712)
+[85] : test.txt (disk block 304893)
+[86] : test.txt (disk block 953796)
+[87] : driver.cpp (disk block 633660)
+[88] : test.txt (disk block 399741)
+[89] : 
+[90] : 
+[91] : test.txt (disk block 792060)
+[92] : driver.cpp (disk block 208445)
+[93] : test.txt (disk block 845316)
+[94] : test.txt (disk block 885054)
+[95] : test.txt (disk block 619531)
+[96] : test.txt (disk block 444473)
+[97] : test.txt (disk block 904336)
+[98] : 
+[99] : driver.cpp (disk block 895721)
+[100] : 
+Dump for table 2: 
+Message: dump after removing 14 buckets,
+Dump for table 1: 
+[0] : 
+[1] : 
+[2] : DELETED (disk block 0)
+[3] : driver.cpp (disk block 128178)
+[4] : test.txt (disk block 861153)
+[5] : DELETED (disk block 0)
+[6] : 
+[7] : test.txt (disk block 378385)
+[8] : test.txt (disk block 574565)
+[9] : 
+[10] : 
+[11] : 
+[12] : 
+[13] : 
+[14] : test.txt (disk block 203952)
+[15] : 
+[16] : test.txt (disk block 673723)
+[17] : 
+[18] : DELETED (disk block 0)
+[19] : 
+[20] : test.txt (disk block 240296)
+[21] : 
+[22] : 
+[23] : test.txt (disk block 491711)
+[24] : 
+[25] : test.txt (disk block 631578)
+[26] : 
+[27] : 
+[28] : 
+[29] : test.txt (disk block 703825)
+[30] : 
+[31] : DELETED (disk block 0)
+[32] : 
+[33] : 
+[34] : 
+[35] : test.txt (disk block 810912)
+[36] : driver.cpp (disk block 856364)
+[37] : 
+[38] : 
+[39] : test.txt (disk block 280463)
+[40] : 
+[41] : test.txt (disk block 363510)
+[42] : test.txt (disk block 805918)
+[43] : 
+[44] : 
+[45] : 
+[46] : DELETED (disk block 0)
+[47] : 
+[48] : test.txt (disk block 763641)
+[49] : 
+[50] : DELETED (disk block 0)
+[51] : test.txt (disk block 374445)
+[52] : test.txt (disk block 852106)
+[53] : 
+[54] : 
+[55] : 
+[56] : 
+[57] : 
+[58] : test.txt (disk block 424808)
+[59] : 
+[60] : 
+[61] : 
+[62] : 
+[63] : DELETED (disk block 0)
+[64] : 
+[65] : 
+[66] : test.txt (disk block 675883)
+[67] : 
+[68] : test.txt (disk block 312659)
+[69] : driver.cpp (disk block 655833)
+[70] : 
+[71] : test.txt (disk block 345156)
+[72] : test.txt (disk block 860957)
+[73] : test.txt (disk block 981167)
+[74] : 
+[75] : 
+[76] : test.txt (disk block 717841)
+[77] : DELETED (disk block 0)
+[78] : 
+[79] : 
+[80] : 
+[81] : test.txt (disk block 205595)
+[82] : DELETED (disk block 0)
+[83] : DELETED (disk block 0)
+[84] : DELETED (disk block 0)
+[85] : test.txt (disk block 304893)
+[86] : test.txt (disk block 953796)
+[87] : DELETED (disk block 0)
+[88] : test.txt (disk block 399741)
+[89] : 
+[90] : 
+[91] : test.txt (disk block 792060)
+[92] : DELETED (disk block 0)
+[93] : test.txt (disk block 845316)
+[94] : test.txt (disk block 885054)
+[95] : test.txt (disk block 619531)
+[96] : test.txt (disk block 444473)
+[97] : test.txt (disk block 904336)
+[98] : 
+[99] : DELETED (disk block 0)
+[100] : 
+Dump for table 2: 
